@@ -1,0 +1,19 @@
+{
+    "prefix": "§8[§3Home§8] §7",
+    "noPermissionMessage": "§cDu hast nicht die Berechtigungen dies zu tun!",
+    "onlyPlayerMessage": "§cDu musst ein Spieler sein, um dies zu machen!",
+    "unexpectedError": "§cEin unbekannter Fehler ist aufgetreten! Bitte versuche es später erneut",
+    "homeDescription": "Teleportiert den Spieler zu einem Home",
+    "homesTeleporting": "§aDu wirst nun teleportiert",
+    "homesKeyNotFound": "§cDu hast kein Home mit diesem Namen",
+    "homesItemLore": "§7Klicken zum Teleportieren",
+    "setHomeDescription": "Setzt ein Home",
+    "setHomeUsage": "§cFalsche Verwendung! Nutze /sethome <Name>",
+    "userHasMaxHomes": "§cDu hast das Maximum an Homes erreicht",
+    "setHomeSuccess": "§aHome erfolgreich gesetzt",
+    "setHomeMustBeGround": "§cHomes können nicht in der Luft gesetzt werden",
+    "removeHomeDescription": "Entfernt das angegebene Home",
+    "removeHomeUsage": "§cFalsche Verwendung! Nutze /removehome <Name>",
+    "removeHomeSuccess": "§aHome erfolgreich entfernt",
+    "noHomesSet": "§l§cDu besitzt noch keine Homes"
+}

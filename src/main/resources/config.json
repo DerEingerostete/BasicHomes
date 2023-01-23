@@ -1,0 +1,5 @@
+{
+    "language": "en",
+    "databaseFile": "database.db",
+    "maxHomes": 3
+}

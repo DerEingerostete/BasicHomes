@@ -1,0 +1,19 @@
+{
+    "prefix": "§8[§3Home§8] §7",
+    "noPermissionMessage": "§cYou dont have the permissions to do that!",
+    "onlyPlayerMessage": "§cYou have to be a player to do that!",
+    "unexpectedError": "§cAn unknown error has occurred! Please try again later",
+    "homeDescription": "Teleports the player to a home",
+    "homesTeleporting": "§aTeleporting",
+    "homesKeyNotFound": "§cYou have no home with this name",
+    "homesItemLore": "§7Click to teleport",
+    "setHomeDescription": "Sets a home",
+    "setHomeUsage": "§cWrong usage! Use /sethome <name>",
+    "userHasMaxHomes": "§cYou have reached the maximum of homes",
+    "setHomeSuccess": "§aHome set successfully",
+    "setHomeMustBeGround": "§cHomes can not be set in the air",
+    "removeHomeDescription": "Removes the specified Home",
+    "removeHomeUsage": "§cWrong usage! Use /removehome <name>",
+    "removeHomeSuccess": "§aHome removed successfully",
+    "noHomesSet": "§l§cYou do not have any Homes yet"
+}

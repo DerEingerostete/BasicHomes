@@ -1,0 +1,6 @@
+name: BasicHomes
+author: DerEingerostete
+
+version: '${project.version}'
+main: de.dereingerostete.homes.BasicHomes
+api-version: 1.18
