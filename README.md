@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/DerEingerostete/BasicHomes"><img src="https://dl.dereingerostete.dev/download?fileName=BasicHomesLogo.png" alt="BasicHomes" width="600"></a>
+  <a href="https://github.com/DerEingerostete/BasicHomes"><img src="https://dl.dereingerostete.dev/preview?fileName=BasicHomesLogo.png" alt="BasicHomes" width="600"></a>
 </h1>
 
 ___
