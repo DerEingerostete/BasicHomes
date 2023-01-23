@@ -34,7 +34,7 @@ The config is very basic and only contains three settings
 `databaseFile`: The filename of the database<br/>
 `maxHomes`: The max amount of homes a user can set<br/>
 
-> **Warning**
+> **Warning**<br/>
 > `maxHomes` should not be greater than 3, otherwise the GUI will break
 
 ## Language Support
