@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br>
+  <br/>
   <a href="https://github.com/DerEingerostete/BasicHomes"><img src="https://dl.dereingerostete.dev/preview?fileName=BasicHomesLogo.png" alt="BasicHomes" width="600"></a>
 </h1>
 
@@ -24,18 +24,25 @@ ___
 The config is very basic and only contains three settings
 ```json
 {
-    "language": "en",               //Defines the used language file
-    "databaseFile": "database.db",  //Defines the database filename
-    "maxHomes": 3                   //Sets the amount of max homes (more as 3 will break the GUI)
+    "language": "en",
+    "databaseFile": "database.db",
+    "maxHomes": 3
 }
 `````
+### Definitions
+`language`: The language file that should be selected (e.g. `en` for `en.json`)<br/>
+`databaseFile`: The filename of the database<br/>
+`maxHomes`: The max amount of homes a user can set<br/>
+
+> **Warning**
+> `maxHomes` should not be greater than 3, otherwise the GUI will break
 
 ## Language Support
-To allow multiple languages a folder named `lang` is created at the first start, in which language configurations can be created.<br>
+To allow multiple languages a folder named `lang` is created at the first start, in which language configurations can be created.<br/>
 These are selected with the `language` option in the `config.json`.
 
 ## Download
-Currently, there is no resource on SpigotMC yet, so the plugin can currently only be downloaded via the [release tab](https://github.com/DerEingerostete/BasicHomes/releases).<br>
+Currently, there is no resource on SpigotMC yet, so the plugin can currently only be downloaded via the [release tab](https://github.com/DerEingerostete/BasicHomes/releases).<br/>
 The latest release can be found [here](https://github.com/DerEingerostete/BasicHomes/releases/latest).
 
 ## License
