@@ -24,9 +24,9 @@ ___
 The config is very basic and only contains three settings
 ```json
 {
-    "language": "en", //Defines the used language file
-    "databaseFile": "database.db", //Defines the database filename
-    "maxHomes": 3 //Sets the amount of max homes (more as 3 will break the GUI)
+    "language": "en",               //Defines the used language file
+    "databaseFile": "database.db",  //Defines the database filename
+    "maxHomes": 3                   //Sets the amount of max homes (more as 3 will break the GUI)
 }
 `````
 
