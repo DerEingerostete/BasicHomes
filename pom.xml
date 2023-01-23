@@ -6,7 +6,7 @@
 
     <groupId>de.dereingerostete</groupId>
     <artifactId>basic-homes</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.0</version>
     <name>BasicHomes</name>
 
     <properties>
